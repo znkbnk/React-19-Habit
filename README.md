@@ -47,12 +47,7 @@ Step 4: Styling for Small Screens
 - In your CSS file, make adjustments to the styling
 for small screens using the @media query. 
 
-Step 5: Toggle Registration Form
-
-- Back in App.js, conditionally render the RegistrationForm
-based on the isRegistrationVisible state.
-
-Step 6: Close Button in Registration Form
+Step 5: Close Button in Registration Form
 
 - In the RegistrationForm.js component, add a close 
 button and an onClick handler to hide the registration form.
